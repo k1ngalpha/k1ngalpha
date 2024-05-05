@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shashank
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ================================================================================================================================
 
 Full Stack Developer
 --------------------
 
-I'm Obsessed with learning new technologies and building applications with them.
+I'm Obsessed with learning new technologies and building everything from scratch.
 
 * 🧠  I'm learning Computer Vision, ROS2, Generative Deep Learning.
 * 🤝  I'm open to collaborating on Python | Flutter | MERN Stack | Machine Learning | Web technologies.
